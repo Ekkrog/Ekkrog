@@ -39,9 +39,10 @@ Projet front-end en HTML, CSS et JavaScript.
 `HTML` `CSS` `JavaScript`
 
 ## Stats du personnage
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Ekkrog&show_icons=true&theme=github_dark)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkrog&layout=compact&theme=github_dark)
+<p>
+<img height="165" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=Ekkrog&show_icons=true&theme=github_dark" />
+<img height="165" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkrog&layout=compact&theme=github_dark" />
+</p>
 
 ## Liens
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ekkrog)
