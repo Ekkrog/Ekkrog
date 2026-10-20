@@ -3,6 +3,7 @@
 Junior web developer. Each project is a quest, each commit is XP, each skill a level-up. 🎮
 
 ## Inventaire
+<div>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -17,6 +18,7 @@ Junior web developer. Each project is a quest, each commit is XP, each skill a l
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
+</div>
 
 ## Quêtes accomplies
 
@@ -49,4 +51,3 @@ Projet front-end en HTML, CSS et JavaScript.
 Fun fact : trop de café, pas assez de sommeil.
 
 > No rest for the devs
-
