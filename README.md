@@ -22,21 +22,25 @@ Junior web developer. Each project is a quest, each commit is XP, each skill a l
 
 ## Quêtes accomplies
 
+### [Vi'assist](https://github.com/galimvar/viassist)
+Application web pour les aidants d'un proche en perte d'autonomie : organisation du quotidien et partage d'informations avec les intervenants à domicile. Projet de groupe réalisé en formation, avec une API Express, une base PostgreSQL et une interface React stylée avec Tailwind CSS et daisyUI.
+`React` `Node.js` `Express` `PostgreSQL` `Tailwind CSS`
+
+### [Adaremise](https://github.com/Ekkrog/Adaremise)
+Application de gestion des stocks d'une remise. Projet full-stack organisé en trois parties : une API back-end, un front-end React et les scripts SQL de la base de données.
+`React` `Node.js` `SQL`
+
 ### [Adaquiz](https://github.com/Ekkrog/Adaquiz-Julien)
 Quiz sur l'univers Harry Potter, conçu en mobile first et responsive. Les questions sont chargées depuis un fichier JSON, avec gestion du score et des écrans (accueil, questions, résultats). Maquettes réalisées sur PenPot.
 `HTML` `CSS` `JavaScript`
-
-### [Morse-Translator](https://github.com/Ekkrog/Morse-Translator)
-Traducteur de texte vers le code Morse, avec manipulation du DOM et tests automatisés.
-`JavaScript` `Jest`
 
 ### [Adatabase](https://github.com/Ekkrog/Adatabase)
 Conception d'une base de données de A à Z : modélisation, migrations (up/down), jeu de données et requêtes SQL, le tout lancé en trois commandes avec Docker Compose.
 `PostgreSQL` `Docker`
 
-### [machine-a-invocation](https://github.com/Ekkrog/machine-a-invocation)
-Projet front-end en HTML, CSS et JavaScript.
-`HTML` `CSS` `JavaScript`
+### [Morse-Translator](https://github.com/Ekkrog/Morse-Translator)
+Traducteur de texte vers le code Morse, avec manipulation du DOM et tests automatisés.
+`JavaScript` `Jest`
 
 ## Stats du personnage
 <p>
