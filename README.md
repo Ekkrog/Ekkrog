@@ -1,6 +1,6 @@
 # Ekkrog
 
-Developer Full Stack Junior. Each project is a quest, each commit is XP, each skill a level-up. 🎮
+Junior Full Stack Developer. Each project is a quest, each commit is XP, each skill a level-up. 🎮
 
 ## Inventaire
 <div>
